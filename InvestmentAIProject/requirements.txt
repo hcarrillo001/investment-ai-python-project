@@ -1,0 +1,7 @@
+yfinance==0.2.65
+plotly==6.2.0
+openai==1.97.1
+dash==3.1.1
+streamlit==1.47.0
+pandas==2.3.1
+kaleido==0.2.1
